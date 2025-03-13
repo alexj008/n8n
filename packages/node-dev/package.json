@@ -49,5 +49,9 @@
     "n8n-workflow": "workspace:*",
     "replace-in-file": "^6.0.0",
     "tmp-promise": "^3.0.3"
-  }
+  },
+  "engines": {
+  "node": ">=18.18.0 <19.0.0"
 }
+}
+
